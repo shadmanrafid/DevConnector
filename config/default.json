@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Deep123:Deep123@devconnector.jk0gr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Deep123:Deep123@devconnector.jk0gr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "Deepstoken"
 }
